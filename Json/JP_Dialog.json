@@ -1,0 +1,435 @@
+{
+    "Dialogues": [
+        {
+            "DialogID": 1,
+            "QusetID": null,
+            "CharactersID": 2,
+            "Dialogue": "아들~ 날씨 참 좋다 엄마랑 어디 놀러갈까?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 2,
+            "QusetID": null,
+            "CharactersID": 4,
+            "Dialogue": "데릭, 엄마 말 잘 듣고 있지? 엄마 속 썩이지 말아야한다",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 3,
+            "QusetID": null,
+            "CharactersID": 5,
+            "Dialogue": "어이 데릭! 수련은 잘 하고 있나?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 4,
+            "QusetID": null,
+            "CharactersID": 6,
+            "Dialogue": "이 괴물들을 얼른 다 해치워야하는데...",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 5,
+            "QusetID": null,
+            "CharactersID": 7,
+            "Dialogue": "오늘 저녁은 뭘 준비해야하나.. 어이 데릭! 뭐 먹고싶은가 자네는!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 6,
+            "QusetID": null,
+            "CharactersID": 8,
+            "Dialogue": "이번 달엔 돈을 좀 벌어야하는데 일이 없구만!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 7,
+            "QusetID": null,
+            "CharactersID": 9,
+            "Dialogue": "데릭! 이따 밤에 술이나 한잔 하자구!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 8,
+            "QusetID": null,
+            "CharactersID": 10,
+            "Dialogue": "데릭 그거 들었어? 루테란 깊은 산속에 엄청난 괴물이 산대!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 9,
+            "QusetID": null,
+            "CharactersID": 11,
+            "Dialogue": "혼자 사는 것도 이제 지겨워... 우리 친구할래?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 10,
+            "QusetID": null,
+            "CharactersID": 12,
+            "Dialogue": "괴물들 때문에 여행자들이 줄었어.. 입에 풀칠하기도 어렵구만",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 11,
+            "QusetID": null,
+            "CharactersID": 13,
+            "Dialogue": "데릭~ 엄마 심부름 하러 온거야?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 12,
+            "QusetID": null,
+            "CharactersID": 14,
+            "Dialogue": "멋진 용병단원이 되기 위해선 좋은 장비가 먼저지!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 13,
+            "QusetID": null,
+            "CharactersID": 15,
+            "Dialogue": "내 아들도 데릭처럼 멋진 청년이 되겠지?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 14,
+            "QusetID": null,
+            "CharactersID": 16,
+            "Dialogue": "이 놈의 남편은 집구석에 맨날 없어! 혹시 내 남편 봤어 데릭?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 15,
+            "QusetID": null,
+            "CharactersID": 17,
+            "Dialogue": "나도 한때 용병단원이 꿈이었지...",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 16,
+            "QusetID": null,
+            "CharactersID": 18,
+            "Dialogue": "데릭! 밥 먹고 가~",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 17,
+            "QusetID": null,
+            "CharactersID": 19,
+            "Dialogue": "좋은 날엔 좋은 술이 빠질 수 없지!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 18,
+            "QusetID": null,
+            "CharactersID": 20,
+            "Dialogue": "오늘 들어온 싱싱한 토마토 싸게 팝니다~ 데릭 하나 먹어봐!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 19,
+            "QusetID": null,
+            "CharactersID": 21,
+            "Dialogue": "아르테미스를 위해 자네가 나서주게나...",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 20,
+            "QusetID": null,
+            "CharactersID": 22,
+            "Dialogue": "내가 아는 누구하고 참 닮았는데... 누구였더라?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 21,
+            "QusetID": null,
+            "CharactersID": 23,
+            "Dialogue": "어이 데릭! 한판 겨뤄봐야지!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 22,
+            "QusetID": null,
+            "CharactersID": 24,
+            "Dialogue": "진정한 요리는 정성을 담아야 하지!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 23,
+            "QusetID": null,
+            "CharactersID": 25,
+            "Dialogue": "난 언젠가 멋진 기타리스트가 될거야",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 24,
+            "QusetID": null,
+            "CharactersID": 26,
+            "Dialogue": "데릭! 루테란에 아는 여자 없어? 나 좀 소개시켜줘~",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 25,
+            "QusetID": null,
+            "CharactersID": 27,
+            "Dialogue": "저녁에 포커 한 판 할까?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 26,
+            "QusetID": null,
+            "CharactersID": 28,
+            "Dialogue": "오늘의 특별메뉴~ 연어샌드위치 입니다~",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 27,
+            "QusetID": null,
+            "CharactersID": 29,
+            "Dialogue": "날이 너무 더운거 같아. 시원한 곳으로 놀러가고싶다",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 28,
+            "QusetID": null,
+            "CharactersID": 30,
+            "Dialogue": "우물이 말라가고 있어...",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 29,
+            "QusetID": null,
+            "CharactersID": 31,
+            "Dialogue": "한 푼만 주세요...",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 30,
+            "QusetID": null,
+            "CharactersID": 32,
+            "Dialogue": "언젠간 돈을 많이 벌어서 멋진 집을 지을거야",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 31,
+            "QusetID": null,
+            "CharactersID": 33,
+            "Dialogue": "요새 물건들이 영 신선하지가 않구만!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 32,
+            "QusetID": null,
+            "CharactersID": 34,
+            "Dialogue": "고마워요 데릭. 덕분에 도둑을 잡았어요!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 33,
+            "QusetID": null,
+            "CharactersID": 35,
+            "Dialogue": "어둠 속에 피어나는 한 송이 꽃이 아름다운 법",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 34,
+            "QusetID": null,
+            "CharactersID": 36,
+            "Dialogue": "나도 얼른 커서 마법사가 될거야",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 35,
+            "QusetID": null,
+            "CharactersID": 37,
+            "Dialogue": "왕년에 내 무용담을 좀 들어보겠는가?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 36,
+            "QusetID": null,
+            "CharactersID": 38,
+            "Dialogue": "루테란 바베큐가 먹고싶구만..",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 37,
+            "QusetID": null,
+            "CharactersID": 39,
+            "Dialogue": "언제쯤 고향으로 갈 수 있을까...",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 38,
+            "QusetID": null,
+            "CharactersID": 40,
+            "Dialogue": "데릭, 무리 하지마 여긴 강해도 너무 강해..",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 39,
+            "QusetID": null,
+            "CharactersID": 41,
+            "Dialogue": "최고의 장비를 갖춰야 세상의 끝에 도달할 수 있다네",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 40,
+            "QusetID": null,
+            "CharactersID": 42,
+            "Dialogue": "마을 분위기가 이상해요.. 무슨일 있나요?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 41,
+            "QusetID": null,
+            "CharactersID": 43,
+            "Dialogue": "데릭씨, 꼭 괴물을 물리쳐주세요",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 42,
+            "QusetID": null,
+            "CharactersID": 44,
+            "Dialogue": "싸다 싸~ 이거 한번 먹어보고 가요",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 43,
+            "QusetID": null,
+            "CharactersID": 45,
+            "Dialogue": "데릭! 밥 먹었어?",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 44,
+            "QusetID": null,
+            "CharactersID": 46,
+            "Dialogue": "오늘 돼지고기가 싸~ 한번 보고가",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 45,
+            "QusetID": null,
+            "CharactersID": 47,
+            "Dialogue": "나이가 들었나.. 이제 이 일도 힘드네",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 46,
+            "QusetID": null,
+            "CharactersID": 48,
+            "Dialogue": "젊은 청년들이 없으니 일도 그만 둬야 하나..",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 47,
+            "QusetID": null,
+            "CharactersID": 49,
+            "Dialogue": "전설의 물고기를 낚고야 말겠어!",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        },
+        {
+            "DialogID": 48,
+            "QusetID": null,
+            "CharactersID": 50,
+            "Dialogue": "요새 손님들이 줄었어요.. 일거리가 없나봐요",
+            "Note": "퀘스트는 잘 하고 있나 데릭?",
+            "Note2": "퀘스트를 완료했군 데릭!",
+            "Note3": "내 부탁을 들어줄 수 있어 데릭?"
+        }
+    ]
+}
