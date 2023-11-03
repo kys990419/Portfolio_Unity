@@ -24,6 +24,9 @@ Unity를 이용한 3D ARPG, VR 장르의 게임을 만들었습니다.
 - 데릭의 모험 :
 - VR 방탈출 :
 
-# 기획서 및 기술서
+# 기획서
+- 데릭의 모험 기획서 : https://cypress-dolomite-768.notion.site/9158c7f6c728404bbb388b7d631db0ab?pvs=4
+
+# 기술서
 - 데릭의 모험 기술서 : https://docs.google.com/document/d/1AnO7-ZY3wYG2S0BuADcISTYcqbGuwgZmnr0iWcCrsr4/edit?usp=sharing
 - VR 방탈출 기술서 : https://docs.google.com/document/d/1w9F_cZl25SSRJUYz2QB2abBDSq3rbgmQNfaTHBsP1qQ/edit?usp=sharing
