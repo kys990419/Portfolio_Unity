@@ -21,8 +21,8 @@ Unity를 이용한 3D ARPG, VR 장르의 게임을 만들었습니다.
 - 역할 : 퍼즐 기획 및 구현
 
 # 영상링크
-- 데릭의 모험 :
-- VR 방탈출 :
+- 데릭의 모험 : https://www.youtube.com/watch?v=BSmdI0y7cpY&t=5s
+- VR 방탈출 : https://www.youtube.com/watch?v=fZi9A-kvYnY&t=23s
 
 # 기획서
 - 데릭의 모험 기획서 : https://cypress-dolomite-768.notion.site/9158c7f6c728404bbb388b7d631db0ab?pvs=4
