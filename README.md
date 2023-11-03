@@ -25,5 +25,5 @@ Unity를 이용하여 게임을 제작했습니다.
 - VR 방탈출 :
 
 # 기획서 및 기술서
-- 데릭의 모험 기술서 :
-- VR 방탈출 기술서 :
+- 데릭의 모험 기술서 : https://docs.google.com/document/d/1AnO7-ZY3wYG2S0BuADcISTYcqbGuwgZmnr0iWcCrsr4/edit?usp=sharing
+- VR 방탈출 기술서 : https://docs.google.com/document/d/1w9F_cZl25SSRJUYz2QB2abBDSq3rbgmQNfaTHBsP1qQ/edit?usp=sharing
